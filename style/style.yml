@@ -10,7 +10,7 @@ sources:
     minzoom: 8
     maxzoom: 16
     tiles:
-      - https://x.optgeo.org/a-1/zxy/{z}/{x}/{y}.pbf
+      - http://localhost:8080/data/tiles.json
 glyphs: https://maps.gsi.go.jp/xyz/noto-jp/{fontstack}/{range}.pbf 
 # NotoSansCJKjp-Regular
 sprite: https://sprites.geolonia.com/basic
